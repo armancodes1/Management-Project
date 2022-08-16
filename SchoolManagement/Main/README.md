@@ -2,4 +2,6 @@
 This is a school management website.
 Built using html, css and django framework with its inbuilt database Sqlite.
 
-In this website you can access the study material and events as student and parents while admin and teachers have access to update all these stuff on the website.
+• Used Bootstrap and Django framework to create a responsive Online School Management Web Application
+• Implemented features of login,download, comment, and feedback forms for students and parents or guardian
+• Deployed administration features for admins and teachers to keep track of data and information about students
