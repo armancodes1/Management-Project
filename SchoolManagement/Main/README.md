@@ -1,4 +1,4 @@
-# school_management_project
+# School Management Project
 This is a school management website.
 Built using html, css and django framework with its inbuilt database Sqlite.
 
